@@ -1,6 +1,6 @@
 # multilangtodoapp
 
-A new Flutter project.
+A new Flutter Todo project.
 
 ## Getting Started
 
