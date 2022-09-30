@@ -1,16 +1,25 @@
-# multilangtodoapp
-
-A new Flutter Todo project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Multilangtodoapp(En-Tr)(With Hive)
+<br/>
+<br/>
+<br/>
+![1](https://user-images.githubusercontent.com/48881290/193332820-a601b19c-a573-41e5-bac8-c87993663240.png)
+<br/>
+<br/>
+<br/>
+![2](https://user-images.githubusercontent.com/48881290/193332822-9f480a1e-fd9f-49f5-a6c8-1c53579de010.png)
+<br/>
+<br/>
+<br/>
+![3](https://user-images.githubusercontent.com/48881290/193332824-1189ab47-3721-44ff-8355-e010c73887a0.png)
+<br/>
+<br/>
+<br/>
+![4](https://user-images.githubusercontent.com/48881290/193332827-30a36b37-1a4b-48ea-a536-885520a958bd.png)
+<br/>
+<br/>
+<br/>
+![5](https://user-images.githubusercontent.com/48881290/193332828-8da47cee-2d6d-402c-8653-4fb01999f6e9.png)
+<br/>
+<br/>
+<br/>
+![6](https://user-images.githubusercontent.com/48881290/193332830-f4a2fa4e-41ea-498e-9f9e-75749d6da354.png)
